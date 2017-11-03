@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
+
+
 public class ObjectManager : EditorWindow {
 
     [MenuItem("80s Killer/Object Manager")]
